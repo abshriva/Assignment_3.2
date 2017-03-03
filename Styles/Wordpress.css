@@ -1,0 +1,25 @@
+header
+{
+    
+    width: 800px;
+    height: 50px;
+    background-color: grey;
+}
+label
+{
+    font-size: 120%;
+    margin-left: 25px;
+}
+#box
+{
+    height: 40px;
+    
+}
+.alignleft 
+{
+	float: right;
+    margin-right: 900px;
+
+}
+
+
